@@ -5,4 +5,4 @@ name: github learning
     learning github action:
     runs-on: ubuntu-latest
     steps:
-      -run: echo "hello iam learning github"
+      -run: echo "hello iam learning github.."
