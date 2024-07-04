@@ -1,0 +1,8 @@
+name: github learning 
+  on: 
+    push: [ "main" ]
+  job:
+    learning github action:
+    runs-on: ubuntu-latest
+    steps:
+      -run: echo "hello iam learning github"
